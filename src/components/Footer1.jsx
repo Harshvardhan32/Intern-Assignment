@@ -19,7 +19,7 @@ const Footer1 = () => {
                 <div className='w-[60%] max-[1100px]:w-full relative flex flex-col gap-y-2 text-white'>
                     <p className='text-5xl font-bold'>Ready To Get Started?</p>
                     <p className='text-xl text-gray-100'>Risus habitant leo egestas mauris diam eget morbi tempus vulputate.</p>
-                    <div className='w-fit z-20 flex flex-row gap-4 text-xl items-center rounded-md bg-white px-6 py-4 text-black'>
+                    <div className='w-fit z-20 flex flex-row gap-4 text-xl items-center rounded-md bg-white px-6 max-[1100px]:pr-4 py-4 text-black'>
                         <p>Download App</p>
                         <IoLogoApple fontSize={28} />
                     </div>
