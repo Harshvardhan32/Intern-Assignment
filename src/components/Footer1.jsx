@@ -15,7 +15,7 @@ const Footer1 = () => {
             <div className='absolute w-12 top-60 -left-10'>
                 <img src={Star} alt="" />
             </div>
-            <div className='flex flex-row max-[1100px]:flex-col items-center bg-black rounded-md gap-6 py-12 pl-16 max-w-[90%] w-full mx-auto'>
+            <div className='flex flex-row max-[1100px]:flex-col max-[1100px]:p-10 items-center bg-black rounded-md gap-6 py-12 pl-16 max-w-[90%] w-full mx-auto'>
                 <div className='w-[60%] max-[1100px]:w-full relative flex flex-col gap-y-2 text-white'>
                     <p className='text-5xl font-bold'>Ready To Get Started?</p>
                     <p className='text-xl text-gray-100'>Risus habitant leo egestas mauris diam eget morbi tempus vulputate.</p>
